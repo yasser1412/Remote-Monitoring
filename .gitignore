@@ -1,0 +1,7 @@
+/Server/node_modules/
+/Task0/Client/build/
+/Client/.dart_tool
+/Client/.packages
+/Client/Generated.xcconfig
+/Client/flutter_export_environment.sh
+/Server/__pycache__
